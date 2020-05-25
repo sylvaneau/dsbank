@@ -7,6 +7,7 @@ namespace GetMyComp.UnitTest
         [SetUp]
         public void Setup()
         {
+            // Nothing to setup for now
         }
 
         [Test]
